@@ -1,0 +1,113 @@
+html {
+    cursor: default;
+    font-family: 'Noto Sans TC';
+    margin: 0 auto;
+    text-align: center;
+    background-color: #000;
+}
+
+h1 {
+    color: #fff;
+}
+
+div {
+    border-width: 0px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    background-color: rgba(0,0,0,0);
+    display: inline-block;
+    width: 20%;
+}
+
+#title {
+    border: 2px dashed #0000ff;
+}
+
+#button-cnk {
+    border: 2px dashed #ff0000;
+}
+
+button {
+    padding: 5px 10px;
+    border-width: 0px;
+    border-radius: 6px;
+    background-color: rgba(0,0,0,0);
+    outline: none;
+    color: #fff;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    color: #000;
+}
+
+#google {
+    border: 2px solid #0000ff;
+}
+
+#google:hover {
+    background-color: #0000ff;
+}
+
+#youtube {
+    border: 2px solid #800080;
+}
+
+#youtube:hover {
+    background-color: #800080;
+}
+
+#Gmail {
+    border: 2px solid #adff2f;
+}
+
+#Gmail:hover {
+    background-color: #adff2f;
+}
+
+#google-map {
+    border: 2px solid #ffff00;
+}
+
+#google-map:hover {
+    background-color: #ffff00;
+}
+
+#minecraft {
+    border: 2px solid #ffc0cb;
+}
+
+#minecraft:hover {
+    background-color: #ffc0cb;
+}
+
+#minecraft-wiki {
+    border: 2px solid #7fffd4;
+}
+
+#minecraft-wiki:hover {
+    background-color: #7fffd4;
+}
+
+#gamer {
+    border: 2px solid #4682b4;
+}
+
+#gamer:hover {
+    background-color: #4682b4;
+}
+
+#L1 {
+    border: 2px solid #ffd700;
+}
+
+#L1:hover {
+    background-color: #ffd700;
+}
+
+button:active {
+    transform: scale(0.9,0.9);
+    transition: transform 0.0s;
+}
