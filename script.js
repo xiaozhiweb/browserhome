@@ -27,5 +27,5 @@ $("#gamer").click(() => {
 });
 
 $("#L1").click(() => {
-    window.location.href = 'https://iansaf.github.io/L1s';
+    window.location.href = 'https://iansaf.github.io/L1/index.html';
 })
