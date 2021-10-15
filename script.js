@@ -25,7 +25,3 @@ better_js_click("#minecraft-wiki", () => {
 better_js_click("#gamer", () => {
     window.location.href = 'https://www.gamer.com.tw';
 });
-
-better_js_click("#L1", () => {
-    window.location.href = 'https://iansaf.github.io/L1/index.html';
-});
